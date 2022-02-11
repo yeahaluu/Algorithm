@@ -13,7 +13,7 @@
 | PROG   | 2/8   | ✅     |      | 프린터        | Stack/Que   | Lv.2    |      |
 | PROG   | 2/9   | ✅      |      | K번째수       | sorting     | Lv.1    |      |
 | PROG   | 2/10  |      |      | 가장 큰 수     | sorting     | Lv.2    |      |
-| PROG   | 2/11  |      |      | 모의고사       | brute-force | Lv.1    |      |
+| PROG   | 2/11  |  ✅     |      | 모의고사       | brute-force | Lv.1    |      |
 | PROG   | 2/12  |      |      | 소수 찾기      | brute-force            | Lv.2    |      |
 |        |       |      |      |            |             |         |      |
 |        |       |      |      |            |             |         |      |
